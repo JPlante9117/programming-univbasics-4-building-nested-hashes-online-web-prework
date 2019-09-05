@@ -33,10 +33,18 @@ def monopoly_with_third_tier
         four_pieces: 200
       },
       :names => {
-        :reading =>
-        :pennsylvania =>
-        :b_and_o =>
-        :shortline =>
+        :reading => {
+          
+        },
+        :pennsylvania => {
+          
+        },
+        :b_and_o => {
+          
+        },
+        :shortline => {
+          
+        }
       }
       
     }
